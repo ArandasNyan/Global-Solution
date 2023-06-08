@@ -68,6 +68,9 @@ header {
 /* Hero Section start ---------------------------------------------------- */
 .hero {
     width: 100%;
+    display: flex;
+    flex-direction: row;
+}
 
 .hero-left {
     padding: 24px;
